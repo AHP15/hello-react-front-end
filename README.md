@@ -50,7 +50,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [React frontend app] <a name="about-project"></a>
 
 > this a react frontend app for a rails api app
 
